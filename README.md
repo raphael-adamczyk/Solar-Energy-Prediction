@@ -1,4 +1,4 @@
----- Master 2 end of study project, realized for the Python DSTI lab class in collaboration with [Yijun Zhu](https://github.com/yijun-zhu) and [Hani Cheri](https://github.com/hani-c)
+---- Master 2 end of study project, realized for the Python DSTI lab class in collaboration with [Yijun Zhu](https://github.com/yijun-zhu)
 
 # Python Project - Prediction of Solar Energy Production using Machine Learning
 
